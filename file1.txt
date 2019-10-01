@@ -8,4 +8,4 @@
 01/10/2019  15:25                 0 file1.txt
 01/10/2019  15:23                 9 README.md
                2 File(s)              9 bytes
-               2 Dir(s)  140.549.861.376 bytes free
+      
