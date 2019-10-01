@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B691-B1E2
+
+ Directory of C:\Users\PRL6-8\Tuesday
+
+01/10/2019  15:25    <DIR>          .
+01/10/2019  15:25    <DIR>          ..
+01/10/2019  15:25                 0 file1.txt
+01/10/2019  15:23                 9 README.md
+               2 File(s)              9 bytes
+               2 Dir(s)  140.549.861.376 bytes free
